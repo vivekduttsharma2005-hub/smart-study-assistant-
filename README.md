@@ -44,8 +44,9 @@ streamlit run app.py
 
 ## 📸 Screenshots
 
-(Add UI screenshots here)
+<img width="1910" height="526" alt="002" src="https://github.com/user-attachments/assets/f00e2ba3-c67a-4624-8a1f-d11e45344336" />
+
 
 ## 👤 Author
 
-Your Name
+Vivek Dutt Sharma
